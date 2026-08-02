@@ -116,22 +116,6 @@ js/app.js
 
 ---
 
-## 📸 Capturas de Pantalla
-
-### Registro de Usuario
-
-Agregar captura aquí.
-
-### Inicio de Sesión
-
-Agregar captura aquí.
-
-### Dashboard
-
-Agregar captura aquí.
-
----
-
 ## 📚 Conceptos Aprendidos
 
 * Firebase
@@ -141,12 +125,6 @@ Agregar captura aquí.
 * Gestión de sesiones
 * Protección de rutas
 * Integración de APIs
-
----
-
-## ✍️ Observaciones
-
-Espacio para comentarios, dificultades encontradas, mejoras implementadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
 
 ---
 
